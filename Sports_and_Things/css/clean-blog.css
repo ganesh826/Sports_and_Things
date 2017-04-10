@@ -212,7 +212,7 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #333333;
+  color: #3d55b5;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
@@ -237,7 +237,7 @@ hr.small {
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #333333;
+  color: #3d55b5;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
@@ -370,7 +370,7 @@ form .row:first-child .floating-label-form-group {
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #777777;
-  background-color: #333333;
+  background-color: #3d55b5;
   cursor: not-allowed;
 }
 ::-moz-selection {
