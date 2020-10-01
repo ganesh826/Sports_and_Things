@@ -1,4 +1,4 @@
-# Sports & Things
+# Sports & Things -An Amazing Website 
 Website for posting new and developing information in the world of sports
 
 - A little project I am working on to peak my intrest in sports
